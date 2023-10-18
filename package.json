@@ -1,0 +1,17 @@
+{
+  "name": "SendSESemail",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "aws-sdk": "^2.1472.0",
+    "chrome-aws-lambda": "^10.1.0",
+    "moment-timezone": "^0.5.43",
+    "nodemailer": "^6.9.5"
+  }
+}
